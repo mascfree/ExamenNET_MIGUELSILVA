@@ -1,0 +1,47 @@
+﻿@model Test2.Models.Usuario
+
+@{
+    ViewBag.Title = "Sistema Web - Grupo el Comercio";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.TipoUsuario, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.TipoUsuario, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.DropDownListFor(model => model.TipoUsuario, new SelectList(Model.TiposUsuario, "codigo", "descripcion"), "Seleccione Tipo de Usuario", new { @class = "btn btn-default dropdown-toggle" })
+                @Html.ValidationMessageFor(model => model.TipoUsuario, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Clave, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Clave, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ingrese Password", @Type = "password" } })
+                @Html.ValidationMessageFor(model => model.Clave, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit"  value="Autenticar" class="btn btn-primary btn-lg" />
+            </div>
+        </div>
+        <div class="col-md-12">
+            <ul>
+                <li><b>Nota:</b> Clave 123, para cualquier tipo de Usuario</li>
+            </ul>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

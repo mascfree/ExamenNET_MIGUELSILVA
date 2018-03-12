@@ -1,0 +1,5 @@
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\bin\Debug\Test1.dll
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\obj\Debug\Test1.dll
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\obj\Debug\Test1.pdb

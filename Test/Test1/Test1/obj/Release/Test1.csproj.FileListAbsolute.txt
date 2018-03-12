@@ -1,0 +1,9 @@
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\bin\Release\Test1.dll
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\bin\Release\Test1.pdb
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\obj\Release\Test1.dll
+C:\Users\Maquina Virtual\Desktop\Test\Test1\Test1\obj\Release\Test1.pdb
+C:\Users\Administrador\Desktop\Test\Test1\Test1\bin\Release\Test1.dll
+C:\Users\Administrador\Desktop\Test\Test1\Test1\bin\Release\Test1.pdb
+C:\Users\Administrador\Desktop\Test\Test1\Test1\obj\Release\Test1.dll
+C:\Users\Administrador\Desktop\Test\Test1\Test1\obj\Release\Test1.pdb

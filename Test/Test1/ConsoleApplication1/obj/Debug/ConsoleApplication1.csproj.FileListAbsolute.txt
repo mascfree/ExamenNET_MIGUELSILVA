@@ -1,0 +1,7 @@
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\bin\Debug\Test1.dll
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\bin\Debug\Test1.pdb
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,14 @@
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\bin\Release\Test1.dll
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\bin\Release\Test1.pdb
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Maquina Virtual\Desktop\Test\Test1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\Administrador\Desktop\Test\Test1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Administrador\Desktop\Test\Test1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\Administrador\Desktop\Test\Test1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Administrador\Desktop\Test\Test1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Administrador\Desktop\Test\Test1\ConsoleApplication1\bin\Release\Test1.dll
+C:\Users\Administrador\Desktop\Test\Test1\ConsoleApplication1\bin\Release\Test1.pdb
+C:\Users\Administrador\Desktop\Test\Test1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
